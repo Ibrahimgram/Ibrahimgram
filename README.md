@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibrahimgram
-- 👀 I’m interested in ... Data Analysis
-- 🌱 I’m currently learning ... Excel and Power Bi
+- 👀 I’m interested in ... Business and Data Analysis
+- 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ... Projects and tutorials
 - 📫 How to reach me ...linkedin.com/ibrahimsinaadeyemi 
 
